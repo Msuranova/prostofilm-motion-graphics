@@ -9,11 +9,13 @@ description: >-
   badges, progress rings, timelines, number counters) and chart-choice rules, animation dynamics and easing
   (enter / exit timing, spacing, momentum, overshoot, kinetic typography, the 12 principles of animation),
   scene transitions and broadcast bumpers / stings / idents, vertical 9:16 reel safe zones, render and delivery
-  specs, depth and parallax, motion branding, colour grade and sound. It covers motion design end to end —
-  моушн-графика и моушн-дизайн. Trigger it even when the user never says "rules": any "how should this graphic
-  look, move, or be laid out" question, or asks about «правила инфографики», «текстуры плашек», «акцентный фон»,
-  «элементы инфографики», «анимация инфографики», «переходы / отбивки», «динамика анимации». A rulebook, not a
-  build engine — for the Remotion build itself, pair with the `motion` skill.
+  specs, depth and parallax, motion branding, colour grade and sound. It covers motion design and infographics
+  end to end. Example prompts that should trigger it — "this lower-third pops in and feels robotic, fix the
+  animation", "what plate texture reads over busy footage?", "lay out a full-screen animated infographic",
+  "which chart for this share data, and no 3D pie", "safe zones for a 9:16 reel", "my titles look stuck on top
+  of the footage", "design a bumper / sting between segments", "what easing and duration for a number counter".
+  Trigger it even when the user never says "rules" — any "how should this graphic look, move, or be laid out"
+  question qualifies. A rulebook, not a build engine — for the Remotion build itself, pair with the `motion` skill.
 ---
 
 # Motion graphics & infographics — design rulebook (Prosto.Film)

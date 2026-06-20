@@ -9,7 +9,7 @@ lower-thirds and titles, animated data, explainer sequences and brand reels. It'
 reference — the motion-design judgment that separates graphics landing in two seconds from the ones people
 scroll past. It carries the rules so the work stays fast, legible, and on-brand: visual hierarchy, plate and
 surface textures, animation dynamics and easing, transitions, type, colour and safe zones, formats, depth, and
-sound. Motion graphics and infographics — моушн-дизайн end to end.
+sound. Motion graphics and infographics — end to end.
 
 You decide the design here; you build it with your render tool. A rulebook, not a render engine.
 
@@ -33,7 +33,21 @@ Ten self-contained reference files, loaded on demand:
 `SKILL.md` holds the universal core (the non-negotiables) plus a map telling Claude which reference file to
 read for the task at hand.
 
-## `00:02` — How it works
+## `00:02` — Examples
+
+Ask in plain language — the skill pulls the right rules and reference file:
+
+| You ask | It applies |
+|---|---|
+| *"This lower-third pops in and feels robotic."* | enter `ease-out`, exit `ease-in` (shorter), stagger in reading order, hold ≈ words × 0.3s + 1s |
+| *"What plate reads over busy footage?"* | frosted glass / grainy blur, checked on the **busiest frame**; paste-ready recipes |
+| *"Lay out a full-screen animated infographic."* | progressive disclosure, one hero, three-level hierarchy, F/Z reading path |
+| *"Which chart for this share data?"* | a sorted bar or a ≤6-slice pie — **no 3D**, label directly |
+| *"Safe zones for a 9:16 reel?"* | keep content in the centred 900×1400; TikTok / Reels UI margins |
+| *"My titles look stuck on top of the footage."* | back off pure white (~`#F0F0F0`), match grain, bind with a soft shadow |
+| *"Design a bumper between segments."* | 2–15 s, brand colour + shape + a synced sound hit; hard-cut elsewhere |
+
+## `00:03` — How it works
 
 This is a **rulebook**, not a build engine. It pairs with a separate `motion` skill that handles the actual
 Remotion (React video) build & render workflow:
@@ -43,22 +57,22 @@ Remotion (React video) build & render workflow:
 
 Per-client brand (fonts, palette, locked decisions) lives in the client's own folder, never hardcoded here.
 
-## `00:03` — Install
+## `00:04` — Install
 
 Drop the `prostofilm-motion-graphics/` folder into your skills directory (e.g. `~/.claude/skills/`), or
 install the packaged `prostofilm-motion-graphics.skill` file. Claude consults it automatically whenever you
 work on infographics, titles, plates, animated data, transitions, or brand reels.
 
-## `00:04` — Sources & originality
+## `00:05` — Sources & originality
 
 All text is an original synthesis written for this pack — see [`SOURCES.md`](SOURCES.md) for the research
 consulted and the copyright note (no copied passages, images, fonts, or logos; brand/standard names used only
 as nominative factual references).
 
-## `00:05` — License
+## `00:06` — License
 
 [MIT](LICENSE) © 2026 Mariya Suranova (Prosto.Film)
 
 ---
 
-<sub>**Просто фильм — кино это просто.** · [prosto.film](https://prosto.film)</sub>
+<sub>**Just a film — cinema made simple.** · [prosto.film](https://prosto.film)</sub>
