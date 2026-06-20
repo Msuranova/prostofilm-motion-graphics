@@ -35,17 +35,23 @@ read for the task at hand.
 
 ## `00:02` — Examples
 
-Ask in plain language — the skill pulls the right rules and reference file:
+The rules, shown — real graphics built to them (in the Prosto.Film brand).
 
-| You ask | It applies |
-|---|---|
-| *"This lower-third pops in and feels robotic."* | enter `ease-out`, exit `ease-in` (shorter), stagger in reading order, hold ≈ words × 0.3s + 1s |
-| *"What plate reads over busy footage?"* | frosted glass / grainy blur, checked on the **busiest frame**; paste-ready recipes |
-| *"Lay out a full-screen animated infographic."* | progressive disclosure, one hero, three-level hierarchy, F/Z reading path |
-| *"Which chart for this share data?"* | a sorted bar or a ≤6-slice pie — **no 3D**, label directly |
-| *"Safe zones for a 9:16 reel?"* | keep content in the centred 900×1400; TikTok / Reels UI margins |
-| *"My titles look stuck on top of the footage."* | back off pure white (~`#F0F0F0`), match grain, bind with a soft shadow |
-| *"Design a bumper between segments."* | 2–15 s, brand colour + shape + a synced sound hit; hard-cut elsewhere |
+**Plate / surface textures** — same title, four surfaces; choose by what sits behind it.
+
+![Plate textures](assets/examples/plate-textures.png)
+
+**Visual hierarchy** — one hero, three levels, ~60% breathing room.
+
+![Visual hierarchy](assets/examples/layout-hierarchy.png)
+
+**Choosing a chart** — no 3D; a sorted bar reads honestly.
+
+![Choosing a chart](assets/examples/chart-choice.png)
+
+**9:16 safe zones** — keep content where the app UI can't cover it.
+
+![9:16 safe zones](assets/examples/safe-zones-916.png)
 
 ## `00:03` — How it works
 
