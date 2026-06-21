@@ -53,6 +53,10 @@ The rules, shown — real graphics built to them (in the Prosto.Film brand).
 
 ![9:16 safe zones](assets/examples/safe-zones-916.png)
 
+**Animation — enter & exit** — in on `ease-out`, out on `ease-in` (shorter), staggered in reading order.
+
+![Lower-third enter/exit animation](assets/examples/animation-lower-third.gif)
+
 ## `00:03` — How it works
 
 This is a **rulebook**, not a build engine. It pairs with a separate `motion` skill that handles the actual
