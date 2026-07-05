@@ -67,6 +67,7 @@ These are the non-negotiables. Everything in the reference files serves these.
 | Faking depth — parallax, z-depth, 2.5D, camera moves, lighting | `references/depth-and-3d.md` |
 | Turning a brand into a motion system — signature movement, consistent DNA across a set | `references/motion-branding.md` |
 | Making the graphic live in the finished video — matching the colour grade & grain, sound design for graphics | `references/finishing-grade-and-sound.md` |
+| Writing the generation prompt for an AI ad clip — continuity, model-sheet references, frame-by-frame shot list, SFX, prohibition tail | `references/master-prompt-ai-ad.md` |
 
 Each reference file is self-contained with a short table of contents at the top. When a job spans several
 (a typical animated infographic touches layout + elements + plate + animation), read the ones that apply and
